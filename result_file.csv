@@ -1,0 +1,2 @@
+,temperature,target_temperature,valve_level,predicted_temperature,predicted_valve_level
+2020-10-21 08:00:00+00:00,21.042857142857148,22.0,22.0,20.99,75.0
