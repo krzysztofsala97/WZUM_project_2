@@ -1,0 +1,6 @@
+---------------
+UCZENIE
+Œredni b³¹d bezwzglêdny predykcji temperatury: 0.1739562688640435
+Œredni b³¹d bezwzglêdny predykcji otwarcia zaworu: 2.585938806610178
+---------------
+TESTOWANIE
